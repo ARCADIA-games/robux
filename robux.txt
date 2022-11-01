@@ -1,30 +1,31 @@
-https://play.google.com/store/apps/details?id=com.xdminapk.mingemsxdspinwheel
+
 	{
-"version": "test v1",
+"version": "By Diana Roma",
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "",
+	"ironId": "e1d8ff01",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
 
-
+    
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "ca-app-pub-6407915308889518~3347511713",
-	"interId": "",
-	"bannerId": "",
-	"rewardadmob": "",
+	"AdmobAppId": "ca-app-pub-8530893402309745~4699181772",
+	"interId": "ca-app-pub-8530893402309745/4228214968",
+	"bannerId": "ca-app-pub-8530893402309745/4507610086",
+	"rewardadmob": "ca-app-pub-8530893402309745/3932895010",
+	
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "",
-	"FanBanner": "",
-	"FanReward": "",
+	"FanInter": "1050820212051817_1050823905384781",
+	"FanBanner": "1050820212051817_1050824188718086",
+	"FanReward": "1050820212051817_1061533637647141",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "",
+	"UnityAppId": "3970310",
 	"UnityInter": "video",
 	"Unitybanner": "banner",
 	"unityreward": "rewardedVideo"
